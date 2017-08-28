@@ -1,0 +1,14 @@
+{
+    "name": "Purps",
+    "title": "Purps",
+    "description": "purple theme",
+    "homepage": "www.dandyjar.com",
+    "version": "1.0.0",
+    "author": "Jill Rice",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true
+    },
+    "keywords": ["purple,theme"]
+}
